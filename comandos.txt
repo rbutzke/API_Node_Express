@@ -1,0 +1,13 @@
+Verificar se o node esta instalado
+
+npm -v
+
+npm install express --save
+
+npm init
+
+apos criar o index.js para verificar se o mesmo esta funcionando
+node index.js
+
+Instalando o body-parser
+npm i --save body-parser
